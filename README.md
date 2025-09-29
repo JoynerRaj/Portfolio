@@ -1,3 +1,3 @@
 # Portfolio
 
-https://joynerportfolio.netlify.app/
+https://joynerportfolio.netlify.app/ 
